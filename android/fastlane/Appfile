@@ -1,0 +1,2 @@
+json_key_file("~/dev/personal/taxio/pc-api-7684457850613079384-76-e980461c78c1.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("ca.taxio.dev") # e.g. com.krausefx.app

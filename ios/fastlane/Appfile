@@ -1,0 +1,8 @@
+app_identifier("com.example.taxioApp") # The bundle identifier of your app
+apple_id("jawad.grar@gmail.com") # Your Apple Developer Portal username
+
+itc_team_id("117991620") # App Store Connect Team ID
+team_id("7J4WGL2M8Q") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
